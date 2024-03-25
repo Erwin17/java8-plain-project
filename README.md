@@ -1,1 +1,1 @@
-# java8-plain-project
+# skeleton-java-plain
